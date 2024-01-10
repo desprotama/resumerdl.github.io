@@ -556,8 +556,8 @@ ul {
 }
 
 .home-banner h1.cd-headline {
-  font-size: 30px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 .home-banner h1.cd-headline span {
@@ -566,8 +566,8 @@ ul {
 
 .home-banner h1.cd-headline .cd-words-wrapper {
   text-align: center;
-  font-size: 30px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 .home-banner h1.cd-headline .cd-words-wrapper:after {
