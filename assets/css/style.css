@@ -1924,7 +1924,7 @@ ul {
 @media screen and (max-width: 450px) {
   h1,
   .home-banner h1.cd-headline {
-    font-size: 22px;
+    font-size: 20px;
   }
   .main-menu .hamburger-menu {
     right: 15px;
@@ -1943,7 +1943,7 @@ ul {
   }
   h1,
   .home-banner h1.cd-headline {
-    font-size: 28px;
+    font-size: 20px;
   }
 }
 
